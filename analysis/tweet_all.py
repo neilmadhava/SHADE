@@ -11,7 +11,7 @@ driver = webdriver.Chrome('/home/citizen/Downloads/chromedriver_linux64/chromedr
 # Example: driver.get('https://twitter.com/realdonaldtrump/')
 
 driver.get('http://twitter.com/sosadtoday/')
-sleep(5)
+sleep(2)
 
 SCROLL_PAUSE_TIME = 2
 last_height=driver.execute_script("return document.body.scrollHeight")
