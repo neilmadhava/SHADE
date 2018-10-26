@@ -7,8 +7,8 @@ from termcolor import colored
 
 personality_insights = PersonalityInsightsV3(
     version='2017-10-13',
-    username='d6f131e2-f4d2-4f08-b015-3c8173d45922',
-    password='tk0iSGsJ7xjk',
+    username='',
+    password='',
     url='https://gateway.watsonplatform.net/personality-insights/api'
 )
 

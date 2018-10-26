@@ -21,8 +21,8 @@ if in_ch == '2':
 
 tone_analyzer = ToneAnalyzerV3(
     version='2017-09-21',
-    username='fb45a89b-4f77-46b0-a339-bde58755df55',
-    password='ZBhsW1nVlXpt',
+    username='',
+    password='',
     url='https://gateway.watsonplatform.net/tone-analyzer/api'
 )
 

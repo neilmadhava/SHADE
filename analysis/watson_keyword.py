@@ -10,8 +10,8 @@ from watson_developer_cloud.natural_language_understanding_v1 \
 
 tone_analyzer = ToneAnalyzerV3(
     version='2017-09-21',
-    username='fb45a89b-4f77-46b0-a339-bde58755df55',
-    password='ZBhsW1nVlXpt',
+    username='',
+    password='',
     url='https://gateway.watsonplatform.net/tone-analyzer/api'
 )
 
@@ -35,8 +35,8 @@ for entity in utterance_analyses['utterances_tone']:
 
 natural_language_understanding = NaturalLanguageUnderstandingV1(
     version='2018-03-16',
-    username='bdb2b18f-a681-4b1c-aba5-d479cea730d4',
-    password='1oTUBiNsWyAX',
+    username='',
+    password='',
     url='https://gateway.watsonplatform.net/natural-language-understanding/api'
 )
 
